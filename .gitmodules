@@ -1,0 +1,6 @@
+[submodule "frontend-angular"]
+	path = frontend-angular
+	url = https://github.com/hafssaidt/frontend-angular.git
+[submodule "backend-spring"]
+	path = backend-spring
+	url = https://github.com/hafssaidt/backend-spring.git
